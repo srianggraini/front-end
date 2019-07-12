@@ -89,6 +89,11 @@
           "title": "ROGUE ONE STAR WARS",
           "qty": 3,
           "total": 105000
+        },
+        {
+          "title": "TOY STORY 4",
+          "qty": 2,
+          "total": 70000
         }
       ]
     },
@@ -179,7 +184,16 @@
       "sinopsis": "Woody, Buzz Lightyear, dan anggota geng lainnya memulai perjalanan dengan Bonnie dan mainan baru bernama Forky.Perjalanan yang penuh petualangan berubah menjadi reuni yang tak terduga ketika Woody bertemu dengan Bo Peep.Sebuah perjalanan bersama teman-teman lama dan baru mengungkapkan dunia sangatlah besar untuk sebuah mainan.",
       "id": 2,
       "seats": 100,
-      "booked": []
+      "booked": [
+        [
+          2,
+          3
+        ],
+        [
+          2,
+          4
+        ]
+      ]
     },
     {
       "id": 3,
