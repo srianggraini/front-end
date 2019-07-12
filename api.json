@@ -1,0 +1,437 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "fikri",
+      "password": "123123",
+      "transaction": [
+        {
+          "title": "ANNA",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "ANNA",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "ANNA",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "The Greatest ShowMan",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "The Greatest ShowMan",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "The Greatest ShowMan",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "The Greatest ShowMan",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 2,
+          "total": 70000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "KOKI-KOKI CILIK 2",
+          "qty": 3,
+          "total": 105000
+        },
+        {
+          "title": "ROGUE ONE STAR WARS",
+          "qty": 3,
+          "total": 105000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "andi",
+      "password": "rahasia123",
+      "transaction": []
+    },
+    {
+      "username": "budi",
+      "password": "123",
+      "id": 3,
+      "transaction": []
+    },
+    {
+      "username": "asd",
+      "password": "asd",
+      "id": 4,
+      "transaction": []
+    },
+    {
+      "username": "fikri123",
+      "password": "123",
+      "id": 5,
+      "transaction": []
+    },
+    {
+      "username": "fikri1",
+      "password": "asd",
+      "id": 6,
+      "transaction": []
+    },
+    {
+      "username": "fikri1234",
+      "password": "123",
+      "id": 7,
+      "transaction": []
+    },
+    {
+      "username": "FikriFikri",
+      "password": "123",
+      "id": 8,
+      "transaction": []
+    },
+    {
+      "username": "asd1",
+      "password": "123123",
+      "id": 9,
+      "transaction": []
+    },
+    {
+      "username": "asdasd",
+      "password": "123",
+      "id": 10,
+      "transaction": []
+    },
+    {
+      "username": "fikri123123123",
+      "password": "asd",
+      "id": 11,
+      "transaction": []
+    },
+    {
+      "username": "seto123",
+      "password": "123",
+      "id": 12,
+      "transaction": []
+    },
+    {
+      "username": "hello",
+      "password": "123",
+      "id": 13,
+      "transaction": []
+    }
+  ],
+  "movies": [
+    {
+      "title": "TOY STORY 4",
+      "sutradara": "Josh Cooley",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155929906195254_452x647.jpg",
+      "genre": "Animation",
+      "playingAt": [
+        "9",
+        "20"
+      ],
+      "duration": "1",
+      "sinopsis": "Woody, Buzz Lightyear, dan anggota geng lainnya memulai perjalanan dengan Bonnie dan mainan baru bernama Forky.Perjalanan yang penuh petualangan berubah menjadi reuni yang tak terduga ketika Woody bertemu dengan Bo Peep.Sebuah perjalanan bersama teman-teman lama dan baru mengungkapkan dunia sangatlah besar untuk sebuah mainan.",
+      "id": 2,
+      "seats": 100,
+      "booked": []
+    },
+    {
+      "id": 3,
+      "title": "ANNA",
+      "genre": "Action",
+      "sinopsis": "Di balik keanggunan Anna Poliatova (Sasha Luss) terdapat sebuah rahasia. Model cantik ini adalah senjata yang sangat mematikan.Kemampuannya membunuh di lapangan menjadikan Anna salah satu agen rahasia yang paling ditakuti.",
+      "playingAt": [
+        9
+      ],
+      "duration": 118,
+      "sutradara": "Luc Besson",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155866895248609_300x430.jpg",
+      "seats": 80,
+      "booked": [
+        [
+          1,
+          11
+        ],
+        [
+          1,
+          12
+        ],
+        [
+          1,
+          13
+        ],
+        [
+          [
+            1,
+            15
+          ],
+          [
+            1,
+            16
+          ],
+          [
+            1,
+            17
+          ]
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "title": "KOKI-KOKI CILIK 2",
+      "genre": "Family",
+      "sinopsis": "Libur telah tiba artinya Cooking Camp akan kembali dibuka. Bima, Alfa, Kevin, Niki, Mely dan Key datang ke camp dengan niat reuni malah dikejutkan bahwa camp sudah tutup. Ini semua berawal dari omongan Evan, mantan Chef terkenal, yang meragukan kredibilitas Grant sebagai pengajar di camp. Sementara keluarga besar Pak Malik ingin menjual lahan camp. Grant yang terpuruk kemudian dihibur anak-anak agar mau membuka Cooking Camp lagi. Mereka mempunyai ide untuk menjual makanan di food truck agar bisa mengumpulkan modal camp. Usaha mereka dibantu oleh Tante Adel dan Adit, keponakan Adel yang lucu sekaligus pemurung sejak kematian Mamanya. Konflik bermunculan ketika menjual makanan tidak segampang yang mereka kira. Ditambah sandwich buatan Adit dituduh hasil jiplakan restoran yang dikelola oleh Evan yang ternyata adalah alumni Cooking Camp angkatan pertama. Kini anak-anak harus bersatu dan bekerja keras untuk mempertahankan Cooking Camp.",
+      "playingAt": [
+        9,
+        20
+      ],
+      "duration": 91,
+      "sutradara": "Viva Westi",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155833340228800_300x430.jpg",
+      "seats": 100,
+      "booked": [
+        [
+          0,
+          13
+        ],
+        [
+          0,
+          14
+        ],
+        [
+          0,
+          15
+        ],
+        [
+          1,
+          17
+        ],
+        [
+          1,
+          18
+        ],
+        [
+          1,
+          19
+        ],
+        [
+          2,
+          15
+        ],
+        [
+          2,
+          16
+        ],
+        [
+          2,
+          17
+        ],
+        [
+          4,
+          18
+        ],
+        [
+          4,
+          19
+        ],
+        [
+          3,
+          17
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          3,
+          16
+        ]
+      ]
+    },
+    {
+      "title": "The Greatest ShowMan",
+      "genre": "Genre",
+      "sinopsis": "Sinopsis",
+      "playingAt": [
+        9,
+        14
+      ],
+      "duration": "210",
+      "sutradara": "Sutradara",
+      "image": "https://d32qys9a6wm9no.cloudfront.net/images/movies/poster/4b/f24a35e9bf4306ffd54a4e75e228586a_500x735.jpg?t=1519038212",
+      "id": 6,
+      "seats": 80,
+      "booked": [
+        [
+          0,
+          10
+        ],
+        [
+          0,
+          11
+        ],
+        [
+          0,
+          12
+        ],
+        [
+          1,
+          13
+        ],
+        [
+          1,
+          14
+        ],
+        [
+          1,
+          15
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          3,
+          7
+        ],
+        [
+          3,
+          14
+        ],
+        [
+          3,
+          15
+        ],
+        [
+          3,
+          16
+        ]
+      ]
+    },
+    {
+      "title": "SPIDER-MAN: FAR FROM HOME",
+      "genre": "Action",
+      "sinopsis": "Petualangan Peter Parker (Tom Holland) kali ini akan menuju Eropa. Bersama teman-teman sekolahnya MJ (Zendaya), Ned (Jacob Batalon), Betty (Beras Angourie) dan Flash (Tony Revolori). ",
+      "playingAt": [
+        9,
+        16,
+        22
+      ],
+      "duration": "120",
+      "sutradara": "Jon Watts",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/15610878872315_300x430.jpg",
+      "id": 7,
+      "seats": 100,
+      "booked": []
+    },
+    {
+      "title": "Us",
+      "genre": "Action",
+      "sinopsis": "Sinopsis",
+      "playingAt": [
+        14,
+        16,
+        22
+      ],
+      "duration": "120",
+      "sutradara": "Sutradara",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg",
+      "id": 8,
+      "seats": 60,
+      "booked": []
+    },
+    {
+      "title": "ROGUE ONE STAR WARS",
+      "genre": "Action",
+      "sinopsis": "Sinopsis",
+      "playingAt": [
+        9,
+        14
+      ],
+      "duration": "200",
+      "sutradara": "Sutradara",
+      "image": "https://i.ebayimg.com/images/g/-M4AAOSw4GVYRES8/s-l300.jpg",
+      "id": 9,
+      "seats": 80,
+      "booked": [
+        [
+          2,
+          9
+        ],
+        [
+          2,
+          10
+        ],
+        [
+          2,
+          11
+        ]
+      ]
+    },
+    {
+      "title": "Hacksaw Ridge",
+      "genre": "War",
+      "sinopsis": "Sinopsis",
+      "playingAt": [
+        14,
+        16
+      ],
+      "duration": "210",
+      "sutradara": "Sutradara",
+      "image": "https://static1.squarespace.com/static/55f32473e4b029b54a7228d2/t/59a75f87e9bfdf4f73cc90ee/1504143995473/HACKSAW+RIDGE+-+MOT+CREATIVE.jpg",
+      "id": 10,
+      "seats": 80,
+      "booked": []
+    }
+  ]
+}
